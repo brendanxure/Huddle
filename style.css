@@ -92,7 +92,7 @@ i:hover {
         font-size: 170%;
     }
  }
- @media (max-width: 500px) { 
+ @media (max-width: 550px) { 
     .dance {
         width: 40vh;
         height: 40vh;
